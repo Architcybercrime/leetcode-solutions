@@ -12,3 +12,5 @@ My daily LeetCode practice. Method: understand the problem -> brute force -> opt
 | 125 | Valid Palindrome | Easy | Two pointers | O(n) | O(n) |
 | 283 | Move Zeroes | Easy | Two pointers (in place) | O(n) | O(1) |
 | 121 | Best Time to Buy and Sell Stock | Easy | Track the minimum | O(n) | O(1) |
+| 26 | Remove Duplicates from Sorted Array | Easy | Read/write pointers | O(n) | O(1) |
+| 167 | Two Sum II (Input Array Is Sorted) | Medium | Two pointers from both ends | O(n) | O(1) |
